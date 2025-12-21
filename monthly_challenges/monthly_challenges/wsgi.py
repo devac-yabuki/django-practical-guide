@@ -1,5 +1,5 @@
 """
-WSGI config for mypage project.
+WSGI config for monthly_challenges project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
